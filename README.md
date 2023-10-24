@@ -9,6 +9,8 @@ should be static so it can be called in Main method without creating an object. 
 Branches strategy: In this project we have 2 main branches: master and develop. If you watched git course videos you already know that each of you will 
 have your own branch where you will write your code, after that you will merge your branch (branch with your name) and develop branch.
 
+Important: Please ensure you always working in your branch (branch with your name).
+
 The only class all group will work in - will be Main class.
 
 Practice tasks and test cases: after you solved your task (created static custom method) - use 3 test cases from coding bat to create test cases in Main class in the following format:
