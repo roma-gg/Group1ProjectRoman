@@ -16,6 +16,9 @@ public class Main {
         System.out.println("Test case 3:");
         System.out.println(PracticeTasks.countYZ("day fyyyz") == 2);
 
+        //space for rest of tasks
+
+
 
     }
 }
