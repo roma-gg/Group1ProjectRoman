@@ -4,43 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2c19e-51eb-4494-878a-978a1251aa99" name="Changes" comment="Aziz solved TaskString">
+    <list default="true" id="f9f2c19e-51eb-4494-878a-978a1251aa99" name="Changes" comment="changed file name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainPackage_week1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainPackage_week1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2XDVz5TRlhOheFntOkdvOt3uhVP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="false" id="Update" />
-    <ConfirmationsSetting value="1" id="Add" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2XDVz5TRlhOheFntOkdvOt3uhVP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "yasemin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mainPackage_week1.Main" />
@@ -70,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698163898293</updated>
       <workItem from="1698163899360" duration="786000" />
+      <workItem from="1698430980930" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix the structure">
       <option name="closed" value="true" />
@@ -87,23 +101,55 @@
       <option name="project" value="LOCAL" />
       <updated>1698168346410</updated>
     </task>
-    <task id="LOCAL-00003" summary="Aziz solved Task">
+    <task id="LOCAL-00003" summary="trying to fix the structure">
       <option name="closed" value="true" />
-      <created>1698329990722</created>
+      <created>1698431311362</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1698329990722</updated>
+      <updated>1698431311362</updated>
     </task>
-    <task id="LOCAL-00004" summary="Aziz solved TaskString">
+    <task id="LOCAL-00004" summary="Solved  assigned task">
       <option name="closed" value="true" />
-      <created>1698330539048</created>
+      <created>1698431366492</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1698330539048</updated>
+      <updated>1698431366492</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created a new package and java class">
+      <option name="closed" value="true" />
+      <created>1698430405058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698430405058</updated>
+    </task>
+    <task id="LOCAL-00006" summary="requested task added">
+      <option name="closed" value="true" />
+      <created>1698430739755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698430739755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="requested task added">
+      <option name="closed" value="true" />
+      <created>1698430768426</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698430768426</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed file name">
+      <option name="closed" value="true" />
+      <created>1698431197549</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698431197549</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +182,10 @@
     <MESSAGE value="trying to fix the structure" />
     <MESSAGE value="Aziz solved Task" />
     <MESSAGE value="Aziz solved TaskString" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aziz solved TaskString" />
+    <MESSAGE value="created a new package and java class" />
+    <MESSAGE value="requested task added" />
+    <MESSAGE value="changed file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed file name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
