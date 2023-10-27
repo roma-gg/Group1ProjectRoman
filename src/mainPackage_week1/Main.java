@@ -1,5 +1,6 @@
 package mainPackage_week1;
 
+import Ion.ClassTask;
 import Roman.PracticeTasks;
 import Yasemin.Task01;
 
@@ -18,6 +19,18 @@ public class Main {
         System.out.println(PracticeTasks.countYZ("day fez") == 2);
         System.out.println("Test case 3:");
         System.out.println(PracticeTasks.countYZ("day fyyyz") == 2);
+
+        //String-2 > endOther
+        System.out.println("String-2 > endOther");
+        System.out.println("Test case 1:");
+        System.out.println(ClassTask.endOther("Hiabc", "abc"));
+        System.out.println("Test case 2:");
+        System.out.println(ClassTask.endOther("AbC", "HiaBc"));
+        System.out.println("Test case 3:");
+        System.out.println(ClassTask.endOther("yz", "12xz"));
+        System.out.println("Test case 4:");
+        System.out.println(ClassTask.endOther("abc", "abXabc"));
+
 
         //space for rest of tasks
         // test module issue
