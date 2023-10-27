@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Test case 3:");
         System.out.println(PracticeTasks.countYZ("day fyyyz") == 2);
 
-        //String-2 > endOther
+        //String-2 > endOther (Ion)
         System.out.println("String-2 > endOther");
         System.out.println("Test case 1:");
         System.out.println(ClassTask.endOther("Hiabc", "abc"));
