@@ -5,21 +5,20 @@ import java.util.Arrays;
 
 public class Aziz_LoopTask {
     public static void main(String[] args) {
-        ArrayList<String> namesOf = new ArrayList<>();
-        namesOf.addAll(Arrays.asList("Anna", "Mike", "Aliya", "Donald", "Muhtar", "Remus", "Mehmet","Asya"));
-        System.out.println(namesOf);
-    }
+        String[] namesOf = {"Anna", "Mike", "Aliya", "Donald", "Muhtar", "Remus", "Mehmet","Asya"};
 
-    public static int count(ArrayList<String> names){
+        System.out.println(namesOf);
+        System.out.println("----");
         int count = 0;
-        for (String eachName : names) {
+        for (String eachName : namesOf) {
             if(eachName.charAt(0) == eachName.charAt(eachName.length()-1)){
-                count++;
+                count += 1;
             }
         }
-        return count;
-
+        System.out.println(count);
     }
+
+
 
 }
 /*
