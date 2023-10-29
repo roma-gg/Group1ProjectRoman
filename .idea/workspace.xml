@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2c19e-51eb-4494-878a-978a1251aa99" name="Changes" comment="trying to fix the structure" />
+    <list default="true" id="f9f2c19e-51eb-4494-878a-978a1251aa99" name="Changes" comment="Updating Ion's test cases">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mainPackage_week1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainPackage_week1/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/develop" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -18,7 +31,17 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XDVz5TRlhOheFntOkdvOt3uhVP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,12 +59,12 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Aziz_LoopTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AzizPackage2.Aziz_LoopTask" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainPackage_week1.Main" />
       <module name="Group1ProjectRoman" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AzizPackage2.*" />
+          <option name="PATTERN" value="mainPackage_week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,7 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aziz_LoopTask" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -64,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698163898293</updated>
       <workItem from="1698163899360" duration="786000" />
+      <workItem from="1698430980930" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix the structure">
       <option name="closed" value="true" />
@@ -81,18 +109,106 @@
       <option name="project" value="LOCAL" />
       <updated>1698168346410</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="trying to fix the structure">
+      <option name="closed" value="true" />
+      <created>1698431311362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698431311362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Solved  assigned task">
+      <option name="closed" value="true" />
+      <created>1698431366492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698431366492</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created a new package and java class">
+      <option name="closed" value="true" />
+      <created>1698430405058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698430405058</updated>
+    </task>
+    <task id="LOCAL-00006" summary="requested task added">
+      <option name="closed" value="true" />
+      <created>1698430739755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698430739755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="requested task added">
+      <option name="closed" value="true" />
+      <created>1698430768426</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698430768426</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed file name">
+      <option name="closed" value="true" />
+      <created>1698431197549</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698431197549</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updating Ion's test cases">
+      <option name="closed" value="true" />
+      <created>1698437790983</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698437790983</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="AzizTask" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -100,7 +216,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trying to fix the structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to fix the structure" />
+    <MESSAGE value="Aziz solved Task" />
+    <MESSAGE value="Aziz solved TaskString" />
+    <MESSAGE value="created a new package and java class" />
+    <MESSAGE value="requested task added" />
+    <MESSAGE value="changed file name" />
+    <MESSAGE value="Updating Ion's test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Ion's test cases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
