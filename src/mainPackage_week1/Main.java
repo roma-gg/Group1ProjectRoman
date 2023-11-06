@@ -20,6 +20,8 @@ public class Main {
         System.out.println("Test case 3:");
         System.out.println(PracticeTasks.countYZ("day fyyyz") == 2);
 
+
+        System.out.println("=======================================");
         //String-2 > endOther (ION)
         System.out.println("String-2 > endOther");
         System.out.println("Test case(Ion) 1:");
@@ -27,7 +29,7 @@ public class Main {
         System.out.println("Test case 2:");
         System.out.println(ClassTask.endOther("AbC", "HiaBc"));
         System.out.println("Test case 3:");
-        System.out.println(ClassTask.endOther("yz", "12xz"));
+        System.out.println(!ClassTask.endOther("yz", "12xz"));
         System.out.println("Test case 4:");
         System.out.println(ClassTask.endOther("abc", "abXabc"));
 
@@ -37,6 +39,7 @@ public class Main {
 
 
         // String-2 > xyzThere (Yasemin)
+        System.out.println("=======================================");
         System.out.println("String-2 > xyzThere");
         System.out.println("Test case 1: ");
         System.out.println(Task01.xyzThere("abcxyz"));

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2c19e-51eb-4494-878a-978a1251aa99" name="Changes" comment="Updating Ion's test cases">
+    <list default="true" id="f9f2c19e-51eb-4494-878a-978a1251aa99" name="Changes" comment="updating .gitignore (excluding .iml and .xml)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mainPackage_week1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mainPackage_week1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Roman" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,6 +91,13 @@
       <updated>1698163898293</updated>
       <workItem from="1698163899360" duration="786000" />
       <workItem from="1698430980930" duration="433000" />
+      <workItem from="1698438682117" duration="1449000" />
+      <workItem from="1698594111084" duration="1350000" />
+      <workItem from="1698614733869" duration="9000" />
+      <workItem from="1698670861466" duration="11000" />
+      <workItem from="1698963741745" duration="20000" />
+      <workItem from="1698966898801" duration="9000" />
+      <workItem from="1699296272296" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix the structure">
       <option name="closed" value="true" />
@@ -165,7 +171,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698437790983</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updating Ion's name (uppcase)">
+      <option name="closed" value="true" />
+      <created>1698438767229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698438767229</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updating Ion's name (uppcase)">
+      <option name="closed" value="true" />
+      <created>1699296400243</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699296400243</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updating .gitignore (excluding .iml and .xml)">
+      <option name="closed" value="true" />
+      <created>1699296522108</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699296522108</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +232,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="AzizTask" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -222,7 +252,9 @@
     <MESSAGE value="requested task added" />
     <MESSAGE value="changed file name" />
     <MESSAGE value="Updating Ion's test cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating Ion's test cases" />
+    <MESSAGE value="Updating Ion's name (uppcase)" />
+    <MESSAGE value="updating .gitignore (excluding .iml and .xml)" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating .gitignore (excluding .iml and .xml)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
