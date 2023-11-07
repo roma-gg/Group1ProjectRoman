@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2c19e-51eb-4494-878a-978a1251aa99" name="Changes" comment="Updated method name">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f9f2c19e-51eb-4494-878a-978a1251aa99" name="Changes" comment="Task02 solved by Aziz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699360918299</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task02 solved by Aziz">
+      <option name="closed" value="true" />
+      <created>1699371747858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699371747859</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task02 solved by Aziz">
+      <option name="closed" value="true" />
+      <created>1699371752397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699371752397</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +211,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trying to fix the structure" />
     <MESSAGE value="Updated method name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated method name" />
+    <MESSAGE value="Task02 solved by Aziz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task02 solved by Aziz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
