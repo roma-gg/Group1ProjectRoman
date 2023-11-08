@@ -5,6 +5,7 @@ import Ion.ClassTask;
 import Roman.PracticeTasks;
 import Yasemin.Task01;
 
+
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
@@ -59,8 +60,25 @@ public class Main {
         System.out.println(azizStringTask.countHi("hihi")==2); //returns 2
 
 
+        System.out.println("=====================================================");
+
+            System.out.println("Test case 1: ");
+            System.out.println(Sumeyra.Task1.isBobHere("abcbob"));
+            System.out.println("Test case 2: ");
+            System.out.println(Sumeyra.Task1.isBobHere("b9b"));
+            System.out.println("Test case 3: ");
+            System.out.println(!Sumeyra.Task1.isBobHere("bac"));
 
 
-    }
+
+
+
+        }
+
+
+
+
+
+
     
 }
