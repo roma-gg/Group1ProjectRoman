@@ -27,11 +27,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
       <RepoCoordinatesHolder>
@@ -74,7 +74,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.doubleChar_AzizTask2">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Aziz_LoopTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AzizPackage2.Aziz_LoopTask" />
       <module name="Group1ProjectRoman" />
@@ -116,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.doubleChar_AzizTask2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.doubleChar_AzizTask2" />
         <item itemvalue="Application.Aziz_LoopTask" />
       </list>
     </recent_temporary>
