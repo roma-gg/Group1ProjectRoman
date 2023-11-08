@@ -5,10 +5,10 @@ public class azizStringTask {
     //Task solved using custom method
     //Tested in main method:
     public static void main(String[] args) {
-        System.out.println(count("xyHixxhxhi")); //2
+        System.out.println(countHi("xyHixxhxhi")); //2
 
     }
-    public static int count(String str){
+    public static int countHi(String str){
         int count = 0;
         str = str.toLowerCase();
         for (int i = 0; i < str.length()-1; i++) {
