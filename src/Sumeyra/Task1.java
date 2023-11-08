@@ -10,14 +10,6 @@ bobThere("bac") → false
  */
 public class Task1 {
 
-        public static void main(String[] args) {
-            System.out.println("Test case 1: ");
-            System.out.println(isBobHere("abcbob"));
-            System.out.println("Test case 2: ");
-            System.out.println(isBobHere("b9b"));
-            System.out.println("Test case 3: ");
-            System.out.println(!isBobHere("bac"));
-        }
 
 
     public static boolean isBobHere(String str) {
