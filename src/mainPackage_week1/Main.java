@@ -52,11 +52,11 @@ public class Main {
         //String -> countHi (Aziz)
         System.out.println("String -> countHi");
         System.out.println("Test case 1: ");
-        System.out.println(azizStringTask.countHi("abc hi ho")); //returns 1
+        System.out.println(azizStringTask.countHi("abc hi ho")==1); //returns 1
         System.out.println("Test case 2: ");
-        System.out.println(azizStringTask.countHi("ABChi hi")); //returns 2
+        System.out.println(azizStringTask.countHi("ABChi hi")==2); //returns 2
         System.out.println("Test case 3: ");
-        System.out.println(azizStringTask.countHi("hihi")); //returns 2
+        System.out.println(azizStringTask.countHi("hihi")==2); //returns 2
 
 
 
