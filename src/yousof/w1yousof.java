@@ -2,7 +2,7 @@ package yousof;
 
 public class w1yousof {
 
-}
+
 
 
     public static void main(String[] args) {
