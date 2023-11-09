@@ -1,10 +1,10 @@
 package mainPackage_week1;
 
-import Aziz.azizStringTask;
+import Aziz.romanTasks.azizStringTask;
 import Ion.ClassTask;
 import Roman.PracticeTasks;
+import Sumeyra.Task;
 import Yasemin.Task01;
-import yousof.W1yousof;
 
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -14,7 +14,7 @@ public class Main {
 
         // test for pull request
 
-        // String-3 > countYZ (Roman)
+        // String-3 > countYZ Roman)
         System.out.println("String-3 > countYZ");
         System.out.println("Test case 1:");
         System.out.println(PracticeTasks.countYZ("fez day") == 2);
@@ -64,24 +64,11 @@ public class Main {
         System.out.println("=====================================================");
         //String2--->isBobHere  (Sumeyra)
             System.out.println("Test case 1: ");
-            System.out.println(Sumeyra.Task1.isBobHere("abcbob"));
+            System.out.println(Task.isBobHere("abcbob"));
             System.out.println("Test case 2: ");
-            System.out.println(Sumeyra.Task1.isBobHere("b9b"));
+            System.out.println(Task.isBobHere("b9b"));
             System.out.println("Test case 3: ");
-            System.out.println(!Sumeyra.Task1.isBobHere("bac"));
-
-
-
-
-        System.out.println("=====================================================");
-        System.out.println("String-2 > countHi (Yousof)");
-        //String-2 > countHi (Yousof)
-        System.out.println("Test case 1: ");
-        System.out.println(W1yousof.countHi("abc hi ho") == 1);
-        System.out.println("Test case 2: ");
-        System.out.println(W1yousof.countHi("ABChi hi") == 2);
-        System.out.println("Test case 3: ");
-        System.out.println(W1yousof.countHi("hihi") == 2);
+            System.out.println(!Task.isBobHere("bac"));
 
         }
 
