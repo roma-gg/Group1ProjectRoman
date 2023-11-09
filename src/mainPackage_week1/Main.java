@@ -1,6 +1,6 @@
 package mainPackage_week1;
 
-import Aziz.azizStringTask;
+import Aziz.romanTasks.azizStringTask;
 import Ion.ClassTask;
 import Roman.PracticeTasks;
 import Sumeyra.Task;
