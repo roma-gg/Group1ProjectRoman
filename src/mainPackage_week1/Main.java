@@ -4,6 +4,7 @@ import Aziz.azizStringTask;
 import Ion.ClassTask;
 import Roman.PracticeTasks;
 import Yasemin.Task01;
+import yousof.W1yousof;
 
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -72,13 +73,16 @@ public class Main {
 
 
 
+        System.out.println("=====================================================");
+        System.out.println("String-2 > countHi (Yousof)");
+        //String-2 > countHi (Yousof)
+        System.out.println("Test case 1: ");
+        System.out.println(W1yousof.countHi("abc hi ho") == 1);
+        System.out.println("Test case 2: ");
+        System.out.println(W1yousof.countHi("ABChi hi") == 2);
+        System.out.println("Test case 3: ");
+        System.out.println(W1yousof.countHi("hihi") == 2);
 
         }
 
-
-
-
-
-
-    
 }
