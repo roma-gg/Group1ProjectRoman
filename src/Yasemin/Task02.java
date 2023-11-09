@@ -14,7 +14,7 @@ countCode("cozexxcope") → 2
 public class Task02 {
 
 
-    public int countCode(String str) {
+    public static int countCode(String str) {
         int a=0;
         int count=0;
 
