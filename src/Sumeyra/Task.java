@@ -8,7 +8,7 @@ bobThere("abcbob") → true
 bobThere("b9b") → true
 bobThere("bac") → false
  */
-public class Task1 {
+public class Task {
 
 
 
