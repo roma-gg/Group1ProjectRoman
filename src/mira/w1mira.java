@@ -1,5 +1,9 @@
 package mira;
 
+
+public class w1mira {
+}
+
 import java.util.Scanner;
 
 public class w1mira {
@@ -43,3 +47,4 @@ public class w1mira {
       identify(6) -> "even"
 
  */
+
