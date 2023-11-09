@@ -2,8 +2,6 @@ package yousof;
 
 public class w1yousof {
 
-}
-
 
     public static void main(String[] args) {
 
@@ -22,6 +20,8 @@ public class w1yousof {
 
     }
 }
+
+
 // Create a method that can identify is a number is odd or even
 //Task mentor Hikmat
 

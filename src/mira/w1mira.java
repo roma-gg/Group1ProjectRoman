@@ -1,9 +1,6 @@
 package mira;
 
 
-public class w1mira {
-}
-
 import java.util.Scanner;
 
 public class w1mira {
