@@ -3,6 +3,7 @@ package mainPackage_week1;
 import Aziz.azizStringTask;
 import Ion.ClassTask;
 import Roman.PracticeTasks;
+import Sumeyra.Task;
 import Yasemin.Task01;
 
 
@@ -63,11 +64,11 @@ public class Main {
         System.out.println("=====================================================");
         //String2--->isBobHere  (Sumeyra)
             System.out.println("Test case 1: ");
-            System.out.println(Sumeyra.Task1.isBobHere("abcbob"));
+            System.out.println(Task.isBobHere("abcbob"));
             System.out.println("Test case 2: ");
-            System.out.println(Sumeyra.Task1.isBobHere("b9b"));
+            System.out.println(Task.isBobHere("b9b"));
             System.out.println("Test case 3: ");
-            System.out.println(!Sumeyra.Task1.isBobHere("bac"));
+            System.out.println(!Task.isBobHere("bac"));
 
 
 

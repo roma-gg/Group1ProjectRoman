@@ -1,4 +1,4 @@
-package Sumeyra;
+package Sumeyra.w1Sumeyra;
 
     public class Task2 {
 
