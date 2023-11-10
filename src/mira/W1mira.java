@@ -2,7 +2,8 @@ package mira;
 
 import java.util.Scanner;
 
-public class w1mira {
+public class W1mira {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
