@@ -1,9 +1,9 @@
 package mira;
 
+
 import java.util.Scanner;
 
-public class W1mira {
-
+public class w1mira {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -44,3 +44,4 @@ public class W1mira {
       identify(6) -> "even"
 
  */
+

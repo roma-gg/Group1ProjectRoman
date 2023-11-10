@@ -5,6 +5,7 @@ import Ion.ClassTask;
 import Roman.PracticeTasks;
 import Sumeyra.Task;
 import Yasemin.Task01;
+import Yasemin.Task02;
 
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -70,6 +71,22 @@ public class Main {
             System.out.println("Test case 3: ");
             System.out.println(!Task.isBobHere("bac"));
 
+        System.out.println("===============================================");
+
+            //String-2 ---> countCode (Yasemin )
+
+        System.out.println("String-2 > countcode");
+        System.out.println("Test case 1: ");
+        System.out.println(Task02.countCode("aaacodebbb")==1);
+        System.out.println("Test case 2:");
+        System.out.println(Task02.countCode("codexxcode")==2);
+        System.out.println("Test case 3:");
+        System.out.println(Task02.countCode("cozexxcope")==2);
+
+
+
         }
 
+
+    
 }
