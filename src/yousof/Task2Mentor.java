@@ -3,6 +3,7 @@ package yousof;
 public class Task2Mentor {
 
     public static void main(String[] args) {
+        //new comment
 
         System.out.println(divide(60,10));
     }
