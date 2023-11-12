@@ -2,11 +2,7 @@ package Sumeyra.w1Sumeyra;
 
 public class Task1 {
 
-    public static void main(String[] args) {
 
-        identify(5);
-        identify(18);
-    }
 
 
     public static void identify(int number) {
