@@ -5,6 +5,9 @@ import Ion.ClassTask;
 import Roman.PracticeTasks;
 import Sumeyra.Task;
 import Yasemin.Task01;
+import Yasemin.Task02;
+
+import static Ion.CatDog.catDog;
 
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -70,17 +73,32 @@ public class Main {
             System.out.println("Test case 3: ");
             System.out.println(!Task.isBobHere("bac"));
 
+        System.out.println("===============================================");
+
+            //String-2 ---> countCode (Yasemin )
+
+        System.out.println("String-2 > countcode");
+        System.out.println("Test case 1: ");
+        System.out.println(Task02.countCode("aaacodebbb")==1);
+        System.out.println("Test case 2:");
+        System.out.println(Task02.countCode("codexxcode")==2);
+        System.out.println("Test case 3:");
+        System.out.println(Task02.countCode("cozexxcope")==2);
+
+        System.out.println("=======================================");
+
+        // String-2 ---> catDog (Ion)
+
+        System.out.println("String-2 > catDog");
+        System.out.println("Test case 1: ");
+        System.out.println(catDog("catdog"));
+        System.out.println("Test case 2:");
+        System.out.println(catDog("1cat1cadodog"));
+        System.out.println("Test case 3:");
+        System.out.println(catDog("dogogcat"));
 
 
-
-
-
-
-        }
-
-
-
-
+    }
 
 
     
