@@ -8,5 +8,7 @@ public class Test {
 
         Sumeyra.w1Sumeyra.Task1.identify(5);
 
+        Sumeyra.w1Sumeyra.Task2.divideWithoutOperator(43,8);
+
     }
 }
