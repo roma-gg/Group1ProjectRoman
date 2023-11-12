@@ -2,13 +2,7 @@ package Sumeyra.w1Sumeyra;
 
     public class Task2 {
 
-        public static void main(String[] args) {
 
-            divideWithoutOperator(43,8);
-            divideWithoutOperator(30,6);
-            divideWithoutOperator(37,5);
-//        divideWithoutOperator(5,10);
-        }
         public static void divideWithoutOperator(int divident, int divisor) {
 
             int quotient = 0;
