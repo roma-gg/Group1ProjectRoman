@@ -21,4 +21,6 @@ endOther("AbC", "HiaBc") → true
 endOther("abc", "abXabc") → true
      */
 
+
+
 }
