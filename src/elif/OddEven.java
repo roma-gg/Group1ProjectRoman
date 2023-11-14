@@ -2,7 +2,7 @@ package elif;
 
 public class OddEven {
 
-    public static String OddOrEven(int num){
+    public static String oddOrEven(int num){
 
         String result = "";
         if(num%2==0){
@@ -15,7 +15,7 @@ public class OddEven {
 
     public static void main(String[] args) {
 
-        System.out.println(OddOrEven(10));
-        System.out.println(OddOrEven(11));
+        System.out.println(oddOrEven(10));
+        System.out.println(oddOrEven(11));
     }
 }

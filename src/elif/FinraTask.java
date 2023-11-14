@@ -2,7 +2,7 @@ package elif;
 
 public class FinraTask {
 
-    public static void Finra(int number){
+    public static void finra(int number){
 
         for (int i = 1; i <= number; i++) {
             if(i % 3 == 0 && i % 5 == 0) {
@@ -20,6 +20,6 @@ public class FinraTask {
 
 
     public static void main(String[] args) {
-        Finra(30);
+        finra(30);
     }
 }
