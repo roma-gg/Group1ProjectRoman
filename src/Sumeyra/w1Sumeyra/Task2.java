@@ -1,11 +1,8 @@
 package Sumeyra.w1Sumeyra;
 
     public class Task2 {
-        public static void main(String[] args) {
 
-           // divideWithoutOperator(5, 10);
-            divideWithoutOperator(10,5);
-        }
+
 
         public static void divideWithoutOperator(int divident, int divisor) {
 
