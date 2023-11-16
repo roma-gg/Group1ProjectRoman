@@ -1,6 +1,7 @@
 package Sumeyra.w1Sumeyra;
 
 public class Task3 {
+
     public static void FINRA() {
 
         String result="";

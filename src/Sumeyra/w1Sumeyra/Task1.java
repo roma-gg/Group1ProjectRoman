@@ -4,7 +4,6 @@ public class Task1 {
 
 
 
-
     public static void identify(int number) {
 
 //way1
