@@ -20,6 +20,10 @@ public class TestClass {
 
         FinRa.finRa();
 
+        System.out.println("----------Swap Numbers-----------\n");
+
+        SwapNumbers.swapNumbers(5,10);
+
 
 
 
