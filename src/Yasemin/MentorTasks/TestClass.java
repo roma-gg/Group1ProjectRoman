@@ -28,9 +28,21 @@ public class TestClass {
 
         Divisible.divisible();
 
+        System.out.println("------Consecutive Numbers-------\n");
+
+        ConsecutiveNumbers.consecutive(24);
+
 
 
 
 
     }
 }
+/*
+2: Codility
+3:test
+5:coder
+2-3: codilityTest
+2-5:Codility coder
+3-5:Test Coder
+ */
