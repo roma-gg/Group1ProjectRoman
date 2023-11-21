@@ -16,6 +16,13 @@ public class TestClass {
 
         divideWithoutOperator.divideWithoutOp(28,5);
 
+        System.out.println("--------------FINRA----------------\n");
+
+        FinRa.finRa();
+
+
+
+
 
     }
 }
