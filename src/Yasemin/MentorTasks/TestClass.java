@@ -24,6 +24,10 @@ public class TestClass {
 
         SwapNumbers.swapNumbers(5,10);
 
+        System.out.println("------Divisible by 3,,5,15-------\n");
+
+        Divisible.divisible();
+
 
 
 
