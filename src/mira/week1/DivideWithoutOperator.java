@@ -1,6 +1,6 @@
-package mira;
+package mira.week1;
 
-public class W1mira2 {
+public class DivideWithoutOperator {
     public static void main(String[] args) {
 
         int a = 20;
