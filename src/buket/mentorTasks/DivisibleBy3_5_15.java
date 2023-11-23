@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class DivisibleBy3_5_15 {
 
-    public static void Divisible3515(){
+    public static void divisible3515(){
 
         ArrayList<Integer> divisibleBy3 = new ArrayList<>();
         ArrayList<Integer> divisibleBy5 = new ArrayList<>();
