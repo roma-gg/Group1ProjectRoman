@@ -1,6 +1,6 @@
-package abdullah;
+package damla.hkmTask;
 
-public class w1abdullah {
+public class DivideWithout {
     public static void main(String[] args) {
 
     }
