@@ -1,4 +1,4 @@
-package elif;
+package elif.hkmTasksWeek1;
 
 public class Week1 {
 
