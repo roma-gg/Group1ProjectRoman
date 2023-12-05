@@ -1,7 +1,7 @@
 package Yasemin.MentorTasks;
 
 import static Yasemin.MentorTasks.OddEvenNumber.identify;
-import static Yasemin.MentorTasks.divideWithoutOperator.divideWithoutOp;
+
 
 
 public class TestClass {
