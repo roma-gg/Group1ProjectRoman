@@ -1,6 +1,6 @@
 package Yasemin.MentorTasks;
 
-public class SwapNumbers {
+public class W1_SwapNumbers {
 
     public static void swapNumbers(int a, int b){
 

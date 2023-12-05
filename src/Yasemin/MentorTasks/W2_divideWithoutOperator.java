@@ -1,6 +1,6 @@
 package Yasemin.MentorTasks;
 
-public class divideWithoutOperator {
+public class W2_divideWithoutOperator {
 
     public static void divideWithoutOp(int num1, int num2){
         int result=0;

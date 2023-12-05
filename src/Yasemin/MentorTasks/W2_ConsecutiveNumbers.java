@@ -1,6 +1,6 @@
 package Yasemin.MentorTasks;
 
-public class ConsecutiveNumbers {
+public class W2_ConsecutiveNumbers {
 
     public static void consecutive(int n){
         for (int i = 1; i <=n; i++) {

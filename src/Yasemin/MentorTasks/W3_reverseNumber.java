@@ -1,6 +1,6 @@
 package Yasemin.MentorTasks;
 
-public class reverseNumber {
+public class W3_reverseNumber {
 
     public static int reverseNum(int num) {
         int reverse = 0;
