@@ -32,6 +32,10 @@ public class TestClass {
 
         ConsecutiveNumbers.consecutive(24);
 
+        System.out.println("------ Prime Number-------\n");
+
+        W3_PrimeNumber.isPrime(12);
+
         System.out.println("------Reverse Number-------\n");
 
         System.out.println("reverse of number is= "+reverseNumber.reverseNum(-123));
