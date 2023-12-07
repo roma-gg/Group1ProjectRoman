@@ -1,6 +1,6 @@
 package Yasemin.MentorTasks;
 
-public class FinRa {
+public class W1_FinRa {
 
     public static void finRa(){
         for (int i = 1; i <=30 ; i++) {

@@ -1,6 +1,6 @@
 package Yasemin.MentorTasks;
 
-public class OddEvenNumber {
+public class W1_OddEvenNumber {
 
     public static String identify(int num){
 

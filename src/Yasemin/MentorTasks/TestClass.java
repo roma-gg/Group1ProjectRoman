@@ -1,7 +1,7 @@
 package Yasemin.MentorTasks;
 
-import static Yasemin.MentorTasks.OddEvenNumber.identify;
-import static Yasemin.MentorTasks.divideWithoutOperator.divideWithoutOp;
+import static Yasemin.MentorTasks.W1_OddEvenNumber.identify;
+
 
 
 public class TestClass {
@@ -14,25 +14,31 @@ public class TestClass {
 
         System.out.println("------Division without operation------\n");
 
-        divideWithoutOperator.divideWithoutOp(28,5);
+        W2_divideWithoutOperator.divideWithoutOp(28,5);
 
         System.out.println("--------------FINRA----------------\n");
 
-        FinRa.finRa();
+        W1_FinRa.finRa();
 
         System.out.println("----------Swap Numbers-----------\n");
 
-        SwapNumbers.swapNumbers(5,10);
+        W1_SwapNumbers.swapNumbers(5,10);
 
         System.out.println("------Divisible by 3,,5,15-------\n");
 
-        Divisible.divisible();
+        W2_Divisible.divisible();
 
         System.out.println("------Consecutive Numbers-------\n");
 
-        ConsecutiveNumbers.consecutive(24);
+        W2_ConsecutiveNumbers.consecutive(24);
 
+        System.out.println("------ Prime Number-------\n");
 
+        W3_PrimeNumber.isPrime(12);
+
+        System.out.println("------Reverse Number-------\n");
+
+        System.out.println("reverse of number is= "+ W3_reverseNumber.reverseNum(-123));
 
 
 
