@@ -2,7 +2,7 @@ package Yasemin.MentorTasks;
 
 import java.util.ArrayList;
 
-public class Divisible {
+public class W2_Divisible {
 
     public static void divisible(){
         ArrayList<Integer> by3=new ArrayList<>();
