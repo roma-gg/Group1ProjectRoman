@@ -6,6 +6,7 @@ import static Ion.hkmTask.FinRa.finRa;
 import static Ion.hkmTask.OddEven.oddEven;
 import static Ion.hkmTask.DivWithoutOperator.noOperator;
 import static Ion.hkmTask.PrimeNumber.isPrime;
+import static Ion.hkmTask.ReverseNumber.reverseInteger;
 import static Ion.hkmTask.Swap.swapValue;
 
 public class Test {
@@ -36,7 +37,12 @@ public class Test {
 
         //System.out.println("-------------------------");
 
-        isPrime(1);
+        System.out.println("isPrime(7) = " + isPrime(7));
+
+        //System.out.println("-------------------------");
+
+        //reverseInteger(524);
+
 
     }
 
