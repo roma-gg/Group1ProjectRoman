@@ -37,11 +37,13 @@ public class Test {
 
         //System.out.println("-------------------------");
 
-        System.out.println("isPrime(7) = " + isPrime(7));
+        //System.out.println("isPrime(7) = " + isPrime(7));
 
         //System.out.println("-------------------------");
 
-        //reverseInteger(524);
+        //System.out.println("reverseInteger(524) = " + reverseInteger(-524));
+
+        //System.out.println("-------------------------");
 
 
     }

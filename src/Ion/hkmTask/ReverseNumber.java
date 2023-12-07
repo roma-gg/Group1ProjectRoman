@@ -5,7 +5,9 @@ public class ReverseNumber {
 
    public static int reverseInteger(int number) {
 
+       boolean isNegative = false;
        if (number < 0) {
+           isNegative = true;
            number = -number;
        }
 
@@ -16,6 +18,7 @@ public class ReverseNumber {
            reversed = reversed * 10 + digit;
            number = number / 10;
        }
-       return reversed;
+
+       return isNegative ? -reversed : reversed;
    }
 }
