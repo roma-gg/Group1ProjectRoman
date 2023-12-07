@@ -4,20 +4,13 @@ public class W3_reverseNumber {
 
     public static int reverseNum(int num) {
         int reverse = 0;
-        System.out.println("number is = "+num);
-        int numFirst = num;
-        if (numFirst < 0) {
-            num = numFirst * (-1);
-        }
+
         while (num != 0) {
             int step = num % 10;
             reverse = reverse * 10 + step;
             num /= 10;
         }
-        reverse = Integer.parseInt(String.valueOf(reverse));
-        if (numFirst < 0) {
-            reverse = reverse * (-1);
-        }
+
 return reverse;
 
     }
