@@ -8,8 +8,8 @@ public class SameLetters {
 
     public static boolean isSame(String str1, String str2) {
 
-        List<String> word1= new ArrayList<String>(Arrays.asList(str1.split("")));
-        List<String> word2= new ArrayList<String>(Arrays.asList(str2.split("")));
+        List<String> word1= new ArrayList<>(Arrays.asList(str1.split("")));
+        List<String> word2= new ArrayList<>(Arrays.asList(str2.split("")));
 
        return ((word1.size()==word2.size()) && (word1.containsAll(word2)) );
 
