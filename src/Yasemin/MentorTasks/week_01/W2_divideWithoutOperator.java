@@ -1,4 +1,4 @@
-package Yasemin.MentorTasks;
+package Yasemin.MentorTasks.week_01;
 
 public class W2_divideWithoutOperator {
 

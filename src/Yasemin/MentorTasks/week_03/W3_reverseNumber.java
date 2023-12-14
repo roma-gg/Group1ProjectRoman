@@ -1,4 +1,4 @@
-package Yasemin.MentorTasks;
+package Yasemin.MentorTasks.week_03;
 
 public class W3_reverseNumber {
 
