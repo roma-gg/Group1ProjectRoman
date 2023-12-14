@@ -1,4 +1,4 @@
-package Yasemin.MentorTasks;
+package Yasemin.MentorTasks.week_02;
 
 public class W2_ConsecutiveNumbers {
 

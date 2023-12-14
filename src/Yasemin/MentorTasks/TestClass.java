@@ -1,6 +1,17 @@
 package Yasemin.MentorTasks;
 
-import static Yasemin.MentorTasks.W1_OddEvenNumber.identify;
+import Yasemin.MentorTasks.week_01.W2_divideWithoutOperator;
+import Yasemin.MentorTasks.week_02.W1_FinRa;
+import Yasemin.MentorTasks.week_02.W1_SwapNumbers;
+import Yasemin.MentorTasks.week_02.W2_ConsecutiveNumbers;
+import Yasemin.MentorTasks.week_03.W2_Divisible;
+import Yasemin.MentorTasks.week_03.W3_PrimeNumber;
+import Yasemin.MentorTasks.week_03.W3_reverseNumber;
+import Yasemin.MentorTasks.week_04.FrequencyOfCharacter;
+import Yasemin.MentorTasks.week_04.RemoveDuplicates;
+import Yasemin.MentorTasks.week_04.SameLetters;
+
+import static Yasemin.MentorTasks.week_01.W1_OddEvenNumber.identify;
 
 
 
@@ -40,8 +51,17 @@ public class TestClass {
 
         System.out.println("reverse of number is= "+ W3_reverseNumber.reverseNum(-123));
 
+        System.out.println("------Frequency of Character-------\n");
 
+        System.out.println("Frequency Of Character is : "+ FrequencyOfCharacter.FrequecyString("AAABBBBDDC"));
 
+        System.out.println("------Is Same Letter-------\n");
+
+        System.out.println("Are letters same : "+SameLetters.isSame("asb","acb"));
+
+        System.out.println("------Remove Duplicates-------\n");
+
+        RemoveDuplicates.removeDouble("AAGGGLLLOHGFRRT");
     }
 }
 /*
