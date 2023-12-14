@@ -3,6 +3,9 @@ package mainPackage_week1;
 import Aziz.romanTasks.azizStringTask;
 import Ion.ClassTask;
 import Roman.PracticeTasks;
+import Roman.Week2Hkm;
+import Roman.Week3Hkm;
+import Roman.Week4Hkm;
 import Sumeyra.Task;
 import Yasemin.Task01;
 import Yasemin.Task02;
@@ -97,6 +100,15 @@ public class Main {
         System.out.println("Test case 3:");
         System.out.println(catDog("dogogcat"));
 
+        /*Week2Hkm test = new Week2Hkm();
+        test.printConsecutiveNums(30);*/
+
+        System.out.println(Week3Hkm.reverseNegativeNums(-246));
+
+        Week4Hkm test = new Week4Hkm();
+        System.out.println(test.freqOfChars("AAABBCDD"));
+        System.out.println(test.sameLetters("abc", "bab"));
+        System.out.println(test.removeDuplicates("AAABBBCCC"));
 
     }
 
